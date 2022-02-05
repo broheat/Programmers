@@ -1,9 +1,9 @@
 ## 배운점.
----------------------------------
-1.[repeat 함수](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/repeat)
+
+ 1.[repeat 함수](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/repeat)
  repeat함수를 통해 for 구문을 대체할 수가 있다.
 
-2. 중첩 for 구문 사용 시, 변수 = 0를 꼭 지정하여야 한다.
+ 2. 중첩 for 구문 사용 시, 변수 = 0를 꼭 지정하여야 한다.
    ```javascript
 
     var i = 0
